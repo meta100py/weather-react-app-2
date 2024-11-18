@@ -24,7 +24,12 @@ export default function App() {
             open-sourced on Github
           </a>{" "}
           and hosted on{" "}
-          <a href="https://stunning-sopapillas-48c8d2.netlify.app">Netlify</a>
+          <a
+            href="https://stunning-sopapillas-48c8d2.netlify.app"
+            rel="noopener noreferrer"
+          >
+            Netlify
+          </a>
         </footer>
       </div>
     </div>
